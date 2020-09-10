@@ -9,4 +9,5 @@
   * Popup-Blocker 
   * Tabbliss 
   * Redux Developer Tools 
+  * axe (accesiblity tester) 
   
