@@ -9,4 +9,5 @@
   * Popup-Blocker 
   * Tabbliss 
   * Redux Developer Tools 
+  * ChroPath (xpath validator)
   
