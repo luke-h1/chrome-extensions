@@ -11,4 +11,5 @@
   * Redux Developer Tools 
   * ChroPath (xpath validator)
   * axe (accesiblity tester) 
+  * Fonts Ninja
   
